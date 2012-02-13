@@ -8,7 +8,7 @@
     "graph"
   ],
   "author": "Cristiano Oliveira <ocean.cris@gmail.com>",
-  "main": "index",
+  "main": "lib/graph",
   "dependencies": {
     "request": "2.1.x"
   },

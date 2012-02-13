@@ -1,3 +1,16 @@
+# Experimental fork
+
+This fork uses a prototypal interface. The API is the same as the original fbgraph but it will allow to use many access tokens within the same application.
+
+## Example
+
+    var Graph = require('fbgraph');
+
+    var graph = new Graph('my_access_token');
+    graph.get('zuck', callback);
+
+---
+
 # Stay Classy, Facebook
 
 [FBgraph](http://criso.github.com/fbgraph/) is a nodejs module that provides easy access to the facebook graph api
