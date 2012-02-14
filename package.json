@@ -10,7 +10,7 @@
   "author": "Cristiano Oliveira <ocean.cris@gmail.com>",
   "main": "lib/graph",
   "dependencies": {
-    "request": "2.1.x"
+    "request": "~ 2.9.100"
   },
   "devDependencies": {
     "vows": "0.5.x"
